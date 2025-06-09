@@ -22,9 +22,8 @@
 - Extensions can be used to inject ads, steal data, or slow down browsing.
 
 ## Screenshots
-- Before: List of installed extensions
-- After: List after removal
-
+-  List of installed extensions
+- Chrome extensions permissions
 ## Outcome
 - Removed 1 suspicious extension.
 - Learned to audit browser extensions and check for red flags.
